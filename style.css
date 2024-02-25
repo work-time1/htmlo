@@ -1,0 +1,65 @@
+.menu-logo img {
+    width: 105px;
+    height: 150px;
+    
+}
+.mama {
+    height: 200px;
+    width: 150px;
+    margin: 0 50px 0 0 ;
+}
+.papa button {
+    background-color: black;
+    border-radius: 25px;
+
+}
+.qqq {
+    text-decoration: none;
+    padding: 5px, 10px;
+    font-size: 19px;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 3vh;
+    margin: 0;
+    font-family: monospace;
+    background: linear-gradient(to left, #7F00FF, #E100FF);
+    border-radius: 10px;
+    background-size: 200%;
+    transition: .5s;
+    text-align: center;
+}
+body {
+    background-image: url(/djdjdjdj/1677301921_bogatyr_club_p_massazh_temnii_fon_fon_pinterest_15.jpg);
+    background-repeat: no-repeat;
+    background-size: 1920px;
+    
+}
+.qqq:hover {
+    background-position: right;
+}
+.section1 {
+    text-align: left;
+}
+.papa {
+    text-align: center;
+    font-size: 25px;
+}
+a {
+    text-decoration: none;
+    padding: 15px;
+    display: inline-block;
+    text-transform: capitalize;
+    overflow: hidden;
+    transition: .4s;
+    color: white;
+}
+a:hover {
+    background: #4b0082;
+    border-radius: 50px;
+    font-size: 20px;
+    box-shadow: 0 0 15px #4b0082,
+                0 0 20px #4b0082,
+                0 0 25px #4b0082
+}
